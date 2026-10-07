@@ -1,0 +1,7 @@
+flask
+openai
+requests
+python-pptx
+python-docx
+reportlab
+Pillow
